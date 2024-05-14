@@ -51,7 +51,7 @@ int main() {
 
     if (n == 1) {
         std::cout << "Массив состоит из одного элемента." << std::endl;
-    } else if (hasRepetition0) {
+    } else if (hasRepetition) {
         std::cout << "Массив состоит из повторяющихся элементов." << std::endl;
     } else if (isSorted) {
         std::cout << "Массив уже отсортирован." << std::endl;
