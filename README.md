@@ -33,11 +33,11 @@
 
 |Код hasDuplicates|Пояснение|
 |--------|--------|
-|<img src="./pictures/code_main.png" width="1350">|<ol><li></li><li></li><li></li><li></li><li></li></ol>|
+|<img src="./pictures/code_mainL.png" width="1350">|<ol><li></li><li></li><li></li><li></li><li></li></ol>|
 
 |Код main|Пояснение|
 |--------|--------|
-|<img src="./pictures/code_main.png" width="1350">|<ol><li></li><li></li><li></li><li></li><li></li></ol>|
+|<img src="./pictures/hasDuplicates.jpg"|<ol><li></li><li></li><li></li><li></li><li></li></ol>|
 
 ### Таблица пограничных случаев
 |Пограничный случай|Количество элементов в массиве|Элементы массива|Ожидаемый вывод|Фактический вывод|Результат|
