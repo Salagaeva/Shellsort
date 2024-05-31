@@ -23,8 +23,9 @@ bool hasDuplicates(int arr[], int n) {
         if (tempArr[i] == tempArr[i - 1]) {
             std::cout << "Массив состоит из повторяющихся элементов.\n";
             std::cout << "Отсортированный массив:\n";
-            for (int j = 0; j < n; j++) {
-                std::cout << tempArr[j] << " ";
+            shellSort(arr, n);
+            for (int i = 0; i < n; i++) {
+                std::cout << arr[i] << " ";
             }
             std::cout << std::endl;
             delete[] tempArr;
